@@ -1,5 +1,5 @@
 # Partie backend de Realtime Keynote Feedback
-Réalisée avec Spring Boot.
+API Rest réalisée avec Spring Boot.
 ## Prérequis
 STS (Spring tool suite) https://spring.io/tools
 ## Installation
